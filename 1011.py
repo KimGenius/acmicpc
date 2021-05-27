@@ -1,4 +1,4 @@
-# 푸는중
+# https://www.acmicpc.net/problem/1011
 t = int(input())
 cases = []
 for i in range(0, t):
@@ -20,3 +20,4 @@ for case in cases:
 
 result += 1
 print(result)
+# 푸는중
